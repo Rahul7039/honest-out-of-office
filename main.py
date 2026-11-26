@@ -1,14 +1,20 @@
 #!/usr/bin/env python3
-"""The Painfully Honest Out-of-Office -- make.fun entry.
+"""The Painfully Honest Out-of-Office -- make.fun entry (revision).
 
 Writes the chosen out-of-office auto-reply, byte-identical, to
 /output/entry.txt. The reply is a fixed constant: it is never generated
 or paraphrased at runtime.
+
+Revision note: the first build confessed to falling out of love with the
+job, which was honest but abstract. This revision keeps that confession's
+shape and makes it concrete -- answering emails at midnight and calling
+it dedication -- a specific truth a real employee only says privately,
+with a tighter, more quotable close.
 """
 
 import os
 
-REPLY = "I'm on leave because I love this job and was starting not to, so thank you for your patience while I rest and come back the enthusiastic colleague your email deserves."
+REPLY = "I'm on leave because I was answering emails at midnight and calling it dedication, so thank you for your patience while I rest and come back actually glad to be here."
 
 MAX_CHARS = 200
 

@@ -8,11 +8,11 @@ A single out-of-office auto-reply for the [make.fun competition](https://make.fu
 
 ## The reply
 
-> I'm on leave because I love this job and was starting not to, so thank you for your patience while I rest and come back the enthusiastic colleague your email deserves.
+> I'm on leave because I was answering emails at midnight and calling it dedication, so thank you for your patience while I rest and come back actually glad to be here.
 
-(167 characters, one sentence.)
+(166 characters, one sentence.)
 
-The angle: instead of the tired "I'm on holiday, your email will be ignored" shape, it admits the one truth nobody dares put in an auto-reply — that the leave exists because the sender was starting to fall out of love with the job — and turns it into a promise: the rest is what brings the enthusiastic colleague back.
+The angle: instead of the tired "I'm on holiday, your email will be ignored" shape, it admits the one truth nobody dares put in an auto-reply — that the sender was answering emails at midnight and calling it dedication — and turns it into a promise: the rest is what brings back a colleague who is actually glad to be here. Revised from the first build, whose confession ("I love this job and was starting not to") was honest but abstract; the midnight-emails confession is concrete, specific, and the kind of thing a real employee only says privately, and the close is tighter and more quotable.
 
 ## Run it
 
